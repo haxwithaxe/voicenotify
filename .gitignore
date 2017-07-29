@@ -1,2 +1,10 @@
 bin/
 gen/
+app/app.iml
+*.gradle
+app/build/
+build/
+gradle/
+gradle*
+local.properties
+voicenotify.iml
